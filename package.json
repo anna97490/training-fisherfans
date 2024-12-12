@@ -1,0 +1,28 @@
+{
+  "name": "training-fisherfans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anna97490/training-fisherfans.git"
+  },
+  "author": "anna cousin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anna97490/training-fisherfans/issues"
+  },
+  "homepage": "https://github.com/anna97490/training-fisherfans#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
